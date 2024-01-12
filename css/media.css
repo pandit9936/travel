@@ -19,7 +19,7 @@
     width: 400px;
     height: auto;
     margin: auto;
-    padding: 100px 0px 0px;
+    padding: 40% 0px 0px;
 
 }
 .banner-box h3 {
@@ -89,15 +89,36 @@
 }
 
 
+.box1 i {
+    font-size: 45px;
+    padding-top: 10px;
+
+}
+.box1 h4 {
+    font-size: 18px;
+    font-weight: 600;
+    padding: 20px;
+
+}
+.box1 p {
+    font-size: 16px;
+    padding-left: 10px;
+    font-weight: 500;
+    padding-top: 10px;
+   
+}
+
+
+
 
 #arpit {
     width: 100%;
     height: 70vh;
     background-image: url(../images/banner4.jpg);
     background-size: cover;
-    background-position: center;
+    background-position: left;
     margin-top: 0px;
-    padding-bottom: 50px;
+    padding-bottom: 0px;
 }
 .arpit-container {
     width: 90%;
@@ -109,31 +130,37 @@
     margin-top: 20px;
 }
 .arpit-txt h2 {
-    font-size: 25px;
+    font-size: 35px;
     font-weight: 700;
     padding-bottom: 10px;
+    padding-top: 55px;
+    padding-left: 15px;
 }
 .arpit-txt p {
     font-size: 15px;
     line-height: 2em;
     padding-bottom: 10px;
+    padding-top: 20px;
 }
 
 .arpit-txt h4 span {
     font-size: 35px;
     font-weight: 600;
     letter-spacing: 3px;
+    
 }
 .arpit-txt h4 {
     font-size: 20px;
     font-family: inherit;
     letter-spacing: 2px;
+   padding: 20px 0px;
+
 }
 .arpit-pnd {
     width: 100%;
     margin-right: 30px;
     display: flex;
-    margin-top: 20px;
+    margin-top: 50px;
    flex-direction: row;
 }
 .arpit-txt3 p {
@@ -177,6 +204,7 @@
     margin: auto;
 
 }
+
 .exs-txt {
     width: 100%;
     display: grid;
@@ -185,9 +213,40 @@
     padding-left: 0px;
 
 }
+.exs-pnd p {
+    line-height: 1.8em;
+    top: 15px;
+    left: 35px;
+    right: 0px;
+    font-size: 17px;
+}
+.exs-pnd img {
+    position: absolute;
+    border-radius: 100%;
+    width: 60px;
+    height: 60px;
+    background-position: center;
+    bottom: 60px;
+    left: 40px;
+
+}
+.exs-pnd h6 {
+   
+    bottom: 26%;
+    left: 22%;
+    font-size: 13px;
+    letter-spacing: 1px;
+}
+
+.exs-pnd h6 span {
+    
+    font-size: 10px;
+    padding-top: 5px;
+    letter-spacing: 1px;
+}
 #ban{
     width: 100%;
-    height: 65vh;
+    height: 35vh;
     background-image: url(../images/banner4.jpg);
     background-size: cover;
     background-position: center;
@@ -195,7 +254,7 @@
     
 }
 .ban-container{
-    width: 100%;
+    width: 90%;
     margin: auto;
     padding-top: 30px;
     text-align: center;
@@ -211,7 +270,7 @@
     margin: 0;
     font-size: 15px;
     margin-bottom: 1rem;
-    padding-left: 20px;
+    padding-left: 40px;
     padding-right: 20px;
 }
 #mds{
