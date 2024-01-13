@@ -116,7 +116,7 @@
 
 #arpit {
     width: 100%;
-    height: 55vh;
+    height: 58vh;
     background-image: url(../images/banner4.jpg);
     background-size: cover;
     background-position: left;
@@ -136,14 +136,14 @@
     font-size: 35px;
     font-weight: 700;
     padding-bottom: 10px;
-    padding-top: 15px;
+    padding-top: 0px;
     padding-left: 15px;
 }
 .arpit-txt p {
     font-size: 15px;
     line-height: 2em;
     padding-bottom: 10px;
-    padding-top: 10px;
+    padding-top: 0px;
 }
 
 .arpit-txt h4 span {
@@ -156,14 +156,13 @@
     font-size: 20px;
     font-family: inherit;
     letter-spacing: 2px;
-   padding: 16px 0px;
+   padding: 0px 0px;
 
 }
 .arpit-pnd {
     width: 100%;
-    margin-right: 30px;
     display: flex;
-    margin-top: 25px;
+    margin-top: 20px;
    flex-direction: row;
 }
 .arpit-txt3 p {
